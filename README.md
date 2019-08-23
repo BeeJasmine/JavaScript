@@ -10,16 +10,18 @@
 
 2. Tu ouvres index.html dans ton navigateur, puis tu ouvres la console :
 
-    Sous Linux : F12 puis onglet "console"
-    Sous Mac : ALT + CMD + I
+    ```Sous Linux : F12 puis onglet "console"
+       Sous Mac : ALT + CMD + I```
 
 
 
 
 
 **/!\ script_7.js existe seulement**
- J'ai seulement créé un objet pour commencer l'exercice script_6 !
- Je n'ai pas encore créé la function permettant de transcrire l'ARN en ADN.
+
+ J'ai créé un objet pour commencer l'exercice script_6 ! plusieurs code arn correspondent à de mêmes protéines.
+ MAIS
+ Je n'ai pas encore créé la function permettant de transcrire l'ARN en ADN (un arn_Reader).
 
 
 
