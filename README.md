@@ -14,9 +14,13 @@ Tu ouvres index.html dans ton navigateur, puis tu ouvres la console :
     Sous Mac : ALT + CMD + I
 
 
-/!\ script_6.js et script_7.js existent seulement. Je n'ai pas eu le temps, ni l'énergie haha, merci de votre attention :) 
+####/!\ script_7.js existe seulement 
+J'ai seulement créé un objet pour commencer l'exercice script_6 !
+Je n'ai pas encore créé la function permettant de transcrire l'ARN en ADN.
 
-Enjoy, cher correcteur, with love ♡♡♡♡♡
+
+
+#Enjoy, cher correcteur, with love ♡♡♡♡♡
 
 
 
