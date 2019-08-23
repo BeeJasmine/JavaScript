@@ -18,9 +18,8 @@
 
 
 **/!\ script_7.js existe seulement**
-
- [ J'ai seulement créé un objet pour commencer l'exercice script_6 !
- [ Je n'ai pas encore créé la function permettant de transcrire l'ARN en ADN.
+ J'ai seulement créé un objet pour commencer l'exercice script_6 !
+ Je n'ai pas encore créé la function permettant de transcrire l'ARN en ADN.
 
 
 
