@@ -11,7 +11,7 @@
 2. Tu ouvres index.html dans ton navigateur, puis tu ouvres la console :
 
     ```Sous Linux : F12 puis onglet "console"
-       Sous Mac : ALT + CMD + I```
+    Sous Mac : ALT + CMD + I```
 
 
 
