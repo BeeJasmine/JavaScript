@@ -14,13 +14,21 @@
     Sous Mac : ALT + CMD + I
 
 
+
+
+
 **/!\ script_7.js existe seulement**
+
  [ J'ai seulement créé un objet pour commencer l'exercice script_6 !
-Je n'ai pas encore créé la function permettant de transcrire l'ARN en ADN.
+ [ Je n'ai pas encore créé la function permettant de transcrire l'ARN en ADN.
 
 
 
-#Enjoy, cher correcteur, with love ♡♡♡♡♡
+
+
+
+
+**Enjoy, cher correcteur, with love ♡♡♡♡♡**
 
 
 
